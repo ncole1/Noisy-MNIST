@@ -1,5 +1,9 @@
 **#MNIST data**
 
+MNIST is a database of images, resolution 28 by 28 pixels, in 8-bit format, representing handwritten digits 0-9 in equal proportions. Many different machine learning algorithms have been tested on their ability to identify each image as the appropriate digit 0-9.
+
+Each algorithm has an accuracy rating, which represents how often it outputs the correct digit when given one image in the MNIST test set.
+
 MNIST data is public data. Accordingly, the source files are not included in the repository but can be easily found online.
 
 **#Using XGBoost on MNIST**
